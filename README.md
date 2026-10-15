@@ -1,34 +1,121 @@
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql&theme=dark" alt="Languages" />
+<a id="top"></a>
 
-**Web**
-### 🌐 Web
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2F81F7,100:00D4FF&height=230&section=header&text=kzz212&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Computer%20Science%20Student&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Banner" />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Web" />
+<div align="center">
 
-**Outils / Tools**
-### 🛠️ Outils / Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+Bienvenue+sur+mon+profil+!;Hi+%F0%9F%91%8B+Welcome+to+my+profile!;Java+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+React;Toujours+en+train+d'apprendre+%F0%9F%9A%80;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+<br/><br/>
 
----
+<a href="#fr"><img src="https://img.shields.io/badge/🇫🇷_Lire_en-Français-7F00FF?style=for-the-badge&labelColor=1a1b27" alt="Français" /></a>
+&nbsp;
+<a href="#en"><img src="https://img.shields.io/badge/🇬🇧_Read_in-English-2F81F7?style=for-the-badge&labelColor=1a1b27" alt="English" /></a>
+
+<br/>
+
+<a href="https://github.com/kzz212?tab=repositories"><img src="https://img.shields.io/badge/📂_Mes_projets-My_projects-00D4FF?style=for-the-badge&labelColor=1a1b27" alt="Projects" /></a>
+&nbsp;
+<a href="https://github.com/kzz212"><img src="https://img.shields.io/github/followers/kzz212?label=Followers&style=for-the-badge&logo=github&color=7F00FF&labelColor=1a1b27" alt="Followers" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=kzz212&label=Visites%20%2F%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<br/>
+
+<a id="fr"></a>
+
+## <img src="https://flagcdn.com/24x18/fr.png" alt="FR" /> À propos de moi
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🎓 **Étudiant en informatique**, passionné par le code
+
+🌱 J'apprends le **développement web** (front & back) et la **programmation**
+
+🛠️ Je crée des projets pour progresser et mettre en pratique ce que j'apprends
+
+🤝 Ouvert aux **collaborations** sur des projets étudiants ou open source
+
+⚡ *Fun fact : chaque bug corrigé me rend un peu meilleur* 🐛➡️✨
+
+</td>
+<td width="40%" valign="top">
+
+**🎯 Objectifs actuels**
+
+- [x] Bases en Java, Python, C/C++
+- [x] HTML, CSS & JavaScript
+- [ ] Maîtriser **React**
+- [ ] Concevoir des bases de données **SQL**
+- [ ] Publier mes projets sur GitHub
+
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="#top"><img src="https://img.shields.io/badge/⬆_Haut_de_page-1a1b27?style=flat-square" alt="Haut de page" /></a></div>
+
+<a id="en"></a>
+
+## <img src="https://flagcdn.com/24x18/gb.png" alt="EN" /> About me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🎓 **Computer Science student**, passionate about code
+
+🌱 Learning **web development** (front & back end) and **programming**
+
+🛠️ Building projects to improve and apply what I learn
+
+🤝 Open to **collaborating** on student or open-source projects
+
+⚡ *Fun fact: every bug I fix makes me a little better* 🐛➡️✨
+
+</td>
+<td width="40%" valign="top">
+
+**🎯 Current goals**
+
+- [x] Java, Python, C/C++ basics
+- [x] HTML, CSS & JavaScript
+- [ ] Master **React**
+- [ ] Design **SQL** databases
+- [ ] Publish my projects on GitHub
+
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_top-1a1b27?style=flat-square" alt="Back to top" /></a></div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
 
-## 📊 Statistiques GitHub / GitHub Stats
+<div align="center">
+
+## 🧰 Technologies
+
+### 💻 Langages / Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql&theme=dark" alt="Languages" />
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Web" />
+
+### 🛠️ Outils / Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
+
 ## 📊 Statistiques / Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kzz212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzz212&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=kzz212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" /></td>
@@ -38,14 +125,12 @@
 
 <img src="https://streak-stats.demolab.com?user=kzz212&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
----
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kzz212&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
 
 <br/>
 
-⭐ *Merci de ta visite ! / Thanks for stopping by!* ⭐
 <img src="https://github-profile-trophy.vercel.app/?username=kzz212&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 
 <br/><br/>
