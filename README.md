@@ -1,5 +1,6 @@
 <a id="top"></a>
 
+<!-- Bannière / Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2F81F7,100:00D4FF&height=230&section=header&text=kzz212&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Computer%20Science%20Student&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Banner" />
 
 <div align="center">
@@ -8,6 +9,7 @@
 
 <br/><br/>
 
+<!-- Boutons de langue / Language buttons -->
 <a href="#fr"><img src="https://img.shields.io/badge/🇫🇷_Lire_en-Français-7F00FF?style=for-the-badge&labelColor=1a1b27" alt="Français" /></a>
 &nbsp;
 <a href="#en"><img src="https://img.shields.io/badge/🇬🇧_Read_in-English-2F81F7?style=for-the-badge&labelColor=1a1b27" alt="English" /></a>
@@ -47,7 +49,7 @@
 
 **🎯 Objectifs actuels**
 
-- [x] Bases en Java, Python, C/C++
+- [x] Bases en Java & Python
 - [x] HTML, CSS & JavaScript
 - [ ] Maîtriser **React**
 - [ ] Concevoir des bases de données **SQL**
@@ -82,7 +84,7 @@
 
 **🎯 Current goals**
 
-- [x] Java, Python, C/C++ basics
+- [x] Java & Python basics
 - [x] HTML, CSS & JavaScript
 - [ ] Master **React**
 - [ ] Design **SQL** databases
@@ -102,7 +104,7 @@
 
 ### 💻 Langages / Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" alt="Languages" />
 
 ### 🌐 Web
 
@@ -110,7 +112,7 @@
 
 ### 🛠️ Outils / Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=idea,git,github,vscode&theme=dark" alt="Tools" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
 
@@ -139,4 +141,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2F81F7,100:7F00FF&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00D4FF,50:2F81F7,100:7F00FF&height=170&section=footer&reversal=true&text=Merci%20!%20%E2%80%A2%20Thanks%20!&fontSize=32&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Footer" />
