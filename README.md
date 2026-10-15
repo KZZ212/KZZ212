@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FF6B35,100:E52E4D&height=230&section=header&text=kzz212&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Computer%20Science%20Student&descSize=18&descAlignY=60" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FF6B35,100:E52E4D&height=230&section=header&text=KZZ&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Computer%20Science%20Student&descSize=18&descAlignY=60" width="100%" alt="Banner" />
 
 <div align="center">
 
@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<a href="#fr"><img src="https://img.shields.io/badge/🇫🇷_Lire_en-Français-FF6B35?style=for-the-badge&labelColor=1a1b27" alt="Français" /></a>
+<a href="#fr"><img src="https://img.shields.io/badge/_Lire_en-Français-FF6B35?style=for-the-badge&labelColor=1a1b27" alt="Français" /></a>
 &nbsp;
-<a href="#en"><img src="https://img.shields.io/badge/🇬🇧_Read_in-English-E52E4D?style=for-the-badge&labelColor=1a1b27" alt="English" /></a>
+<a href="#en"><img src="https://img.shields.io/badge/_Read_in-English-E52E4D?style=for-the-badge&labelColor=1a1b27" alt="English" /></a>
 
 <br/>
 
@@ -116,20 +116,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FF6B35,100:E52E4D&height=3" width="100%" alt="separator" />
 
-## 📊 Statistiques / Stats
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=kzz212&show_icons=true&bg_color=1a1b27&title_color=FF6B35&icon_color=FFB347&text_color=e6e6e6&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzz212&layout=compact&bg_color=1a1b27&title_color=FF6B35&icon_color=FFB347&text_color=e6e6e6&hide_border=true&langs_count=8" alt="Top languages" /></td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=kzz212&background=1a1b27&ring=FF6B35&fire=E52E4D&currStreakNum=ffffff&currStreakLabel=FF6B35&sideNums=ffffff&sideLabels=FFB347&dates=a0a0a0&stroke=333333&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kzz212&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 
 </div>
 
