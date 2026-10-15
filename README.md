@@ -1,7 +1,6 @@
 <a id="top"></a>
 
-<!-- Bannière / Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2F81F7,100:00D4FF&height=230&section=header&text=kzz212&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Computer%20Science%20Student&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,50:2F81F7,100:00D4FF&height=260&section=header&text=kzz212&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Computer%20Science%20Student&descSize=18&descAlignY=55&animation=scaleIn" width="100%" alt="Banner" />
 
 <div align="center">
 
@@ -9,7 +8,6 @@
 
 <br/><br/>
 
-<!-- Boutons de langue / Language buttons -->
 <a href="#fr"><img src="https://img.shields.io/badge/🇫🇷_Lire_en-Français-7F00FF?style=for-the-badge&labelColor=1a1b27" alt="Français" /></a>
 &nbsp;
 <a href="#en"><img src="https://img.shields.io/badge/🇬🇧_Read_in-English-2F81F7?style=for-the-badge&labelColor=1a1b27" alt="English" /></a>
@@ -128,10 +126,6 @@
 <img src="https://streak-stats.demolab.com?user=kzz212&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kzz212&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
-
-<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=kzz212&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 
