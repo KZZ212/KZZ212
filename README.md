@@ -1,122 +1,24 @@
-<a id="top"></a>
+# Hi 👋, I'm KZZ
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FF6B35,100:E52E4D&height=230&section=header&text=KZZ&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Software%20Engineer%20Student&descSize=18&descAlignY=60" width="100%" alt="Banner" />
+### A passionate developer from around the world
 
-<div align="center">
+- 🔭 I'm currently working on **K-Script Studio**
 
-### Salut 👋 Bienvenue sur mon profil !
+- 🌱 I'm currently learning **Java**
 
-*Hi 👋 Welcome to my profile!*
+- 💬 Ask me about **React, Lua, Python, JS, HTML, CSS, SQL database**
 
-<br/><br/>
+- 📫 How to reach me **contact@kzzdev.com**
 
-<a href="#fr"><img src="https://img.shields.io/badge/_Lire_en-Français-FF6B35?style=for-the-badge&labelColor=1a1b27" alt="Français" /></a>
-&nbsp;
-<a href="#en"><img src="https://img.shields.io/badge/_Read_in-English-E52E4D?style=for-the-badge&labelColor=1a1b27" alt="English" /></a>
+- 👨‍💻 All of my projects are available at **[https://kzzdev.com](https://kzzdev.com)**
 
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/KZZ212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KZZ212" height="30" width="40" /></a>
+<a href="https://twitter.com/w3bkzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w3bkzz" height="30" width="40" /></a>
+<a href="https://discord.gg/kzz212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kzz212" height="30" width="40" /></a>
+</p>
 
-<a href="https://github.com/kzz212?tab=repositories"><img src="https://img.shields.io/badge/📂_Mes_projets-My_projects-FFB347?style=for-the-badge&labelColor=1a1b27" alt="Projects" /></a>
-&nbsp;
-<a href="https://github.com/kzz212"><img src="https://img.shields.io/github/followers/kzz212?label=Followers&style=for-the-badge&logo=github&color=FF6B35&labelColor=1a1b27" alt="Followers" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=kzz212&label=Visites%20%2F%20Views&color=E52E4D&style=for-the-badge" alt="Profile views" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
 
-</div>
-
-<br/>
-
-<a id="fr"></a>
-
-## <img src="https://flagcdn.com/24x18/fr.png" alt="FR" /> À propos de moi
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-🎓 **Étudiant en informatique**, passionné par le code
-
-🌱 J'apprends le **développement web** (front & back) et la **programmation**
-
-🛠️ Je crée des projets pour progresser et mettre en pratique ce que j'apprends
-
-🤝 Ouvert aux **collaborations** sur des projets étudiants ou open source
-
-⚡ *Fun fact : chaque bug corrigé me rend un peu meilleur* 🐛➡️✨
-
-</td>
-<td width="40%" valign="top">
-
-**🎯 Objectifs actuels**
-
-- [x] Bases en Java & Python
-- [x] HTML, CSS & JavaScript
-- [ ] Maîtriser **React**
-- [ ] Concevoir des bases de données **SQL**
-- [ ] Publier mes projets sur GitHub
-
-</td>
-</tr>
-</table>
-
-<div align="right"><a href="#top"><img src="https://img.shields.io/badge/⬆_Haut_de_page-1a1b27?style=flat-square" alt="Haut de page" /></a></div>
-
-<a id="en"></a>
-
-## <img src="https://flagcdn.com/24x18/gb.png" alt="EN" /> About me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-🎓 **Computer Science student**, passionate about code
-
-🌱 Learning **web development** (front & back end) and **programming**
-
-🛠️ Building projects to improve and apply what I learn
-
-🤝 Open to **collaborating** on student or open-source projects
-
-⚡ *Fun fact: every bug I fix makes me a little better* 🐛➡️✨
-
-</td>
-<td width="40%" valign="top">
-
-**🎯 Current goals**
-
-- [x] Java & Python basics
-- [x] HTML, CSS & JavaScript
-- [ ] Master **React**
-- [ ] Design **SQL** databases
-- [ ] Publish my projects on GitHub
-
-</td>
-</tr>
-</table>
-
-<div align="right"><a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_top-1a1b27?style=flat-square" alt="Back to top" /></a></div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FF6B35,100:E52E4D&height=3" width="100%" alt="separator" />
-
-<div align="center">
-
-## 🧰 Technologies
-
-### 💻 Langages / Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" alt="Languages" />
-
-### 🌐 Web
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Web" />
-
-### 🛠️ Outils / Tools
-
-<img src="https://skillicons.dev/icons?i=idea,git,github,vscode&theme=dark" alt="Tools" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FF6B35,100:E52E4D&height=3" width="100%" alt="separator" />
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E52E4D,50:FF6B35,100:FFB347&height=160&section=footer&text=Merci%20de%20ta%20visite%20!%20%E2%80%A2%20Thanks%20for%20stopping%20by%20!&fontSize=24&fontColor=ffffff&fontAlignY=72" width="100%" alt="Footer" />
